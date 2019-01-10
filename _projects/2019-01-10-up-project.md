@@ -4,9 +4,9 @@ subtitle: '不一样的游戏视频'
 date: 2019-01-10 22:00:00
 featured_image: '/images/projects/up.jpg'
 ---
-<div class="resp-container" style="position: relative; overflow: hidden; padding-top: 56.25%;">
-    <iframe src="//player.bilibili.com/player.html?aid=11861148&cid=19584556&page=1" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+
+![](/images/projects/space.jpg)
+
 ### 项目简介
 
 相比传统的游戏大作，我更喜欢玩一些别具创意的独立游戏，也希望把精品独立游戏分享给更多的玩家，所以几年前我开始在B站上投视频。之前没怎么认真做过，基本就当作兴趣。
