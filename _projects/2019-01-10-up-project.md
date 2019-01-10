@@ -5,7 +5,7 @@ date: 2019-01-10 22:00:00
 featured_image: '/images/projects/up.jpg'
 ---
 <div class="resp-container" style="position: relative; overflow: hidden; padding-top: 56.25%;">
-    <iframe src="//player.bilibili.com/player.html?aid=11861148&cid=19584556&page=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="//player.bilibili.com/player.html?aid=11861148&cid=19584556&page=1" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 ### 项目简介
 
