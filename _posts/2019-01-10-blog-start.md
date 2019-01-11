@@ -1,11 +1,11 @@
 ---
 title: '那么，我就开始了'
 date: 2019-01-10 16:00:00
-featured_image: '/images/back_to_blog/slash.jpg'
+featured_image: 'https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/slash.jpg'
 excerpt: 为什么做这个个人网站以及什么是“斜杠青年”
 ---
 
-![](/images/back_to_blog/slash.jpg)
+![](https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/slash.jpg)
 
 It's been a long time. 快毕业那会儿我做了自己的个人网站，为了在网上有个展示自己的地方，也方便找工作。
 工作之后就再也没有维护了，域名也过期了。现在想起曾经有个个人网站，不禁佩服当时的自己，有想法，且付诸行动。

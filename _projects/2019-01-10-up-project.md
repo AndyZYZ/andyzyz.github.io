@@ -2,10 +2,10 @@
 title: '独立游戏UP主养成计划'
 subtitle: '不一样的游戏视频'
 date: 2019-01-10 22:00:00
-featured_image: '/images/projects/up.jpg'
+featured_image: 'https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/projects/up.jpg'
 ---
 
-![](/images/projects/space.jpg)
+![](https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/projects/space.jpg)
 
 ### 项目简介
 
