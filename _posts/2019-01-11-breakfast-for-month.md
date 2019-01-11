@@ -32,7 +32,7 @@ excerpt: 一个月不重样的早餐食谱
 6. 英式松饼切半，用锅温热
 7. 松饼+培根+水波蛋+酱
 
-### 2.咸味燕麦粥+炒芦笋+水果+红茶
+### 2.咸味燕麦粥+炒芦笋+水果+红茶 (某人说不如青菜粥)
 
 ![](https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/breakfast/zhou.jpg)
 
@@ -67,7 +67,7 @@ excerpt: 一个月不重样的早餐食谱
 16. 粥关火加盐，可加香油，搅拌均匀后出锅
 17. 蛋盖在粥上，撒上黑胡椒碎
 
-### 3.熔岩乳酪土司+南瓜羹
+### 3.熔岩乳酪土司+南瓜羹 (某人说更适合下午茶)
 
 ![](https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/breakfast/tusi.jpg)
 
@@ -100,7 +100,7 @@ excerpt: 一个月不重样的早餐食谱
 11. 开机高速打2分钟，最高到最低迅速调节速度旋钮可防止泡沫产生
 12. 南瓜羹finish，等待面包烤完就可以吃了
 
-### 4.牛奶燕麦杯
+### 4.牛奶燕麦杯 (某人说不吃冷的早餐+不吃巧克力。。。)
 
 ![](	https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/breakfast/milkcup.jpg)
 
