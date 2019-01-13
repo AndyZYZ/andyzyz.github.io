@@ -1,7 +1,7 @@
 ---
 title: '推荐几款2018年的独立游戏'
 date: 2019-01-13 16:00:00
-featured_image: 'https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/breakfast.jpg'
+featured_image: 'https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/indie_game/gris.jpg'
 excerpt: 去年我玩过觉得不错的几款独立游戏
 ---
 
