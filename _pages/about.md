@@ -1,12 +1,12 @@
 ---
 title: 关于我
-subtitle: Stay hungry. Stay foolish.
+subtitle: 自信但不自傲，张扬但不张狂
 description: 张一则的个人网站
 featured_image: https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/index/me_small_small.jpg
 ---
 
-* 偏80的90后，天秤座
-* Steam Gamer
+* 天秤座90后
+* [Steam Gamer](https://steamcommunity.com/id/andyzyz/)
 
 ### 工作经历
 
