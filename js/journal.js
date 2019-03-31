@@ -113,7 +113,7 @@
 			
 			if ( $(this).is('.gallery__item__link') ) {
 				
-				console.log("dont");// Let JS handle it
+				// Let JS handle it
 			}
 			// If link is external
 			else if ( thisTarget.indexOf('http') >= 0 ) {
