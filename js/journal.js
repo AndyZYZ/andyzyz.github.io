@@ -111,7 +111,7 @@
 			// Get the link target
 			var thisTarget = $(this).attr('href');
 			
-            if ( $(this).is('.gallery__item__link') ) {
+			if ( $(this).is('.gallery__item__link') ) {
 				
 				// Let JS handle it
 			}
