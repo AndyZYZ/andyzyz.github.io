@@ -1,7 +1,7 @@
 ---
 title: '关于冥想的几点感受'
 date: 2019-04-02 17:00:00
-featured_image: 'https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/meditation/20180723221022-GettyImages-865800652.jpeg'
+featured_image: 'https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/meditation/1_HlYO8HdbG78qk8G9SM2xDQ.jpeg'
 excerpt: 冥想还是有点用的
 ---
 
@@ -15,7 +15,7 @@ excerpt: 冥想还是有点用的
 
 我选了公司午休吃完饭，要开始下午的工作之前尝试了第一次冥想。刚开始呼吸的时候，专注力能持续一段时间，之后脑中便开始各种思绪纷飞。我就照着书上说的，开始不断将注意力拉回到呼吸上来，循环往复。如此便完成了一段5分钟的冥想。
 
-![](https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/meditation/1_HlYO8HdbG78qk8G9SM2xDQ.jpeg)
+![](https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/back_to_blog/meditation/20180723221022-GettyImages-865800652.jpeg)
 
 结束冥想之后，第一感觉是大脑空了，清新了不少。我开始下午的工作准备，将大量需要的资料和注意事项往脑子里装，丝毫没有阻碍感。就像给大脑做了一次内存释放，之前遗留的琐碎片段和思路全部清空之后，记忆力、专注度和处理信息的效率都提升不少。
 
