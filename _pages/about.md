@@ -12,7 +12,7 @@ featured_image: https://myblog-1258494321.cos.ap-shanghai.myqcloud.com/image/ind
 
 **QA工程师 @ NVIDIA**
 
-2015.11 - 今天
+2015.11 - 2019.4
 
 * 新一代RTX显卡[DLSS](https://www.nvidia.com/zh-cn/geforce/news/justice-online-geforce-rtx-ray-tracing-dlss/)深度学习超级采样技术神经网络训练
 * 显卡性能测试以及数据分析
